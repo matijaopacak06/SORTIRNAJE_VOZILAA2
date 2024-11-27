@@ -1,0 +1,10 @@
+C:\Users\Učenik\Downloads\SORT_VOZILA-main\SORT_VOZILA-main\SORTIRANJE_VOZILA\bin\Debug\SORTIRANJE_VOZILA.exe.config
+C:\Users\Učenik\Downloads\SORT_VOZILA-main\SORT_VOZILA-main\SORTIRANJE_VOZILA\bin\Debug\SORTIRANJE_VOZILA.exe
+C:\Users\Učenik\Downloads\SORT_VOZILA-main\SORT_VOZILA-main\SORTIRANJE_VOZILA\bin\Debug\SORTIRANJE_VOZILA.pdb
+C:\Users\Učenik\Downloads\SORT_VOZILA-main\SORT_VOZILA-main\SORTIRANJE_VOZILA\obj\Debug\SORTIRANJE_VOZILA.csproj.AssemblyReference.cache
+C:\Users\Učenik\Downloads\SORT_VOZILA-main\SORT_VOZILA-main\SORTIRANJE_VOZILA\obj\Debug\SORTIRANJE_VOZILA.Form1.resources
+C:\Users\Učenik\Downloads\SORT_VOZILA-main\SORT_VOZILA-main\SORTIRANJE_VOZILA\obj\Debug\SORTIRANJE_VOZILA.Properties.Resources.resources
+C:\Users\Učenik\Downloads\SORT_VOZILA-main\SORT_VOZILA-main\SORTIRANJE_VOZILA\obj\Debug\SORTIRANJE_VOZILA.csproj.GenerateResource.cache
+C:\Users\Učenik\Downloads\SORT_VOZILA-main\SORT_VOZILA-main\SORTIRANJE_VOZILA\obj\Debug\SORTIRANJE_VOZILA.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\Downloads\SORT_VOZILA-main\SORT_VOZILA-main\SORTIRANJE_VOZILA\obj\Debug\SORTIRANJE_VOZILA.exe
+C:\Users\Učenik\Downloads\SORT_VOZILA-main\SORT_VOZILA-main\SORTIRANJE_VOZILA\obj\Debug\SORTIRANJE_VOZILA.pdb
